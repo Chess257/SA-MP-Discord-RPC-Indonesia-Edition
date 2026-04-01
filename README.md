@@ -88,15 +88,6 @@ This version includes modifications, visual improvements, and additional customi
 Contributions, suggestions, and improvements are welcome.
 Feel free to fork the repository or open an issue.
 
----
-
-## :bust_in_silhouette: Author
-
-**Chess7**
-SA-MP Developer
-
----
-
 <p align="center">
   <i>Built for the SA-MP community</i>
 </p>
