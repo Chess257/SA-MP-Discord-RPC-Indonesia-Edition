@@ -38,7 +38,7 @@ This is not a full rewrite — only a refinement and customization of the origin
 
 ---
 
-## :camera_with_flash: Preview
+## 📸: Preview
 
 <p align="center">
   <img src="images/preview1.png" width="200"/>
