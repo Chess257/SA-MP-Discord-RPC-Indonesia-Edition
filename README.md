@@ -142,13 +142,6 @@ It is a personal modification with visual and functional adjustments to better s
 
 ---
 
-## :bust_in_silhouette: Author
-
-**Chess7**
-SA-MP Developer
-
----
-
 <p align="center">
   <i>Respect the original work. Improve responsibly.</i>
 </p>
